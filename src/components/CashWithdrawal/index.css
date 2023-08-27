@@ -1,0 +1,58 @@
+/* Write your CSS here */
+
+.bg-Main {
+  background-color: azure;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sub-bg {
+  background-color: #150b3e;
+  width: 50%;
+  height: 70%;
+  border-radius: 10px;
+}
+
+.bg {
+  height: 80px;
+  width: 80px;
+  background-color: #c7d2fe;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.profile-Bg {
+  display: flex;
+  text-align: center;
+  padding: 20px;
+}
+.Letr {
+  color: white;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.Name {
+  color: white;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 25px;
+  margin-left: 20px;
+}
+.BalanceCont {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.withdraw_cN {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.Para {
+  font-size: 20px;
+  font-weight: 500;
+  color: #c7d2fe;
+}
